@@ -1,0 +1,5 @@
+Create a Encryption and Decryption Program
+
+Level 1 - Using ASCII code, allow the user to choose how many positions each letter shifts by.  The program should encrypt a given word.  You do not need to worry about the end of the alphabet, use the characters given.
+Level 2 - Using ASCII code, allow the user to choose how many positions each letter shifts by.  The program should encrypt a given word and decrypt a coded word.  You do not need to worry about the end of the alphabet, use the characters given.
+Level 3 - Using ASCII code, allow the user to choose how many positions each letter shifts by.  The program should encrypt a given word and decrypt a coded word.  Your program should reset the alphabet on the code shift (if the ASCII code passes “z”)
